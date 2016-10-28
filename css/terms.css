@@ -1,0 +1,44 @@
+ul{
+	list-style: none;
+}
+
+#terms{
+	border-left: 40px solid #333;
+	padding-left: 25px;
+}
+
+#list ul li a{
+	text-decoration: none !important;
+	color:  #858585;
+}
+
+h1, h2, h3, h4, h5, h6{
+	text-align: center;
+	padding-top: 10px;
+	color:  #858585;
+}
+
+p{
+	line-height:1.6;
+}
+
+#footer{
+	text-align: center;
+	background-color: #ccc;
+	height: 50px;
+	padding-top: 1px;
+	font-size: 14px;
+	color: #333;
+	margin-bottom: 0 !important;
+}
+
+
+#follow{
+	display: none;
+	position: absolute;
+	left: -1px;
+	top: 10px;
+	background: transparent;
+	padding: 10px;
+
+}
