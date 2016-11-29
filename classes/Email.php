@@ -16,8 +16,8 @@
 			$this->objMailer->Host = "smtp.gmail.com";
 			$this->objMailer->SMTPSecure = "tls";
 			$this->objMailer->Port = 587;
-			$this->objMailer->Username = "margaryan.mher.28@gmail.com";
-			$this->objMailer->Password = "MargaryanM2808596077";
+			$this->objMailer->Username = "example@gmail.com";
+			$this->objMailer->Password = "passwordatexample";
 			$this->objMailer->SetFrom("margaryan.mher.28@gmail.com", "My ecommerce");
 			$this->objMailer->AddReplyTo("margaryan.mher.28@gmail.com", "My ecommerce");
 		}
